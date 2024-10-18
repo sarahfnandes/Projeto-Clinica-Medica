@@ -19,7 +19,11 @@ Este projeto é um sistema de agendamento para clínicas médicas, desenvolvido 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   https://github.com/sarahfnandes/Projeto-Clinica-Medica.git
+   cd Projeto-Clinica-Medica
 
-  
+2. Baixe a Dependência
+    ```bash
+    pip install psycopg2
+
+
